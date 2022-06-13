@@ -1,4 +1,4 @@
-import { isEqualTo100 } from '../src/exercise-01.js';
+import { isEqualTo100 } from '../src/exercise-01';
 
 describe(`
 Write a JavaScript program to check two numbers and return true if
