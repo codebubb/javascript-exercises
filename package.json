@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "exercise01": "jest exercise-01"
+    "exercise01": "jest exercise-01",
+    "exercise02": "jest exercise-02",
+    "all": "jest"
   },
   "keywords": [],
   "author": "",
