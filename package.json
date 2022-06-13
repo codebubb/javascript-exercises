@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "exercise01": "jest"
+    "exercise01": "jest exercise-01"
   },
   "keywords": [],
   "author": "",
