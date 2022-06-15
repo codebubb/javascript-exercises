@@ -5,6 +5,7 @@
   "scripts": {
     "exercise01": "jest exercise-01",
     "exercise02": "jest exercise-02",
+    "exercise03": "jest exercise-03",
     "all": "jest"
   },
   "keywords": [],
