@@ -1,0 +1,3 @@
+const todaysDate = () => {};
+
+export { todaysDate };

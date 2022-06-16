@@ -6,6 +6,8 @@
     "exercise01": "jest exercise-01",
     "exercise02": "jest exercise-02",
     "exercise03": "jest exercise-03",
+    "exercise04": "jest exercise-04",
+    "exercise05": "jest exercise-05",
     "all": "jest"
   },
   "keywords": [],
